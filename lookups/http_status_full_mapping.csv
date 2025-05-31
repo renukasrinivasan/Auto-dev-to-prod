@@ -1,0 +1,6 @@
+start_range,end_range,email_to_be_sent
+100,199,info@xxxx.in
+200,299,success@xxxx.in
+300,399,redirect@xxxx.in
+400,499,clienterror@xxxx.in
+500,599,servererror@xxxx.in
