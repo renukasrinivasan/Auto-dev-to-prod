@@ -1,0 +1,17 @@
+<dashboard version="1.1" theme="dark">
+  <label>Windows testing</label>
+  <row>
+    <panel>
+      <chart>
+        <search>
+          <query>index="botsv3"</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="charting.chart">line</option>
+        <option name="charting.drilldown">none</option>
+        <option name="refresh.display">progressbar</option>
+      </chart>
+    </panel>
+  </row>
+</dashboard>
